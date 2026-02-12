@@ -24,7 +24,7 @@ This project is a visually engaging BMW-themed landing page built with HTML and 
 
 ## How to View
 The live website is hosted on GitHub Pages and can be viewed here:  
-[View BMW Website](https://prinemetana.github.io/bmw-website/)
+[View BMW Website](file:///C:/Users/nsovo/OneDrive/Documents/projects/free%20code%20camp/bmw/bmw.html)
 
 ## Project Status
 Currently in development — new features and sections will be added gradually.  
