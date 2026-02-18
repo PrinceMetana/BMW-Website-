@@ -6,5 +6,9 @@
  .picture img{
     height:50%;
     width : 75%;
-
  }
+  .video video{
+     width :50%;
+     height:50;
+ }
+   
